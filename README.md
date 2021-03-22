@@ -12,8 +12,6 @@
 
 - HTML & CSS
 
-<!-- ## Live Demo
-
 [Live Demo Link](https://livedemo.com)
 
 # To get a local copy follow the steps below:
@@ -38,4 +36,4 @@
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed. -->
+This project is [MIT](lic.url) licensed
