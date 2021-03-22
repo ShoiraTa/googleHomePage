@@ -1,8 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Positioning and Floating Elements
-
-> This assignment consists of making a clone of a New York Times article page. You will learn and apply these concepts to the project:
+#Building a clone of google homepage interface
 
 - Embedding images
 - The box model
@@ -10,7 +6,7 @@
 - Used Grid for sections
 - Positioning
 
-![Wath we are cloninig](./project-screenshot.png)
+![screenshot](./screen.png)
 
 ## Built With
 
@@ -20,48 +16,25 @@
 
 [Live Demo Link](https://livedemo.com)
 
-## Getting Started
+# To get a local copy follow the steps below:
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+#### 1. Go to https://github.com/ShoiraTa/TeaStation
+#### 2. Click on the code button and copy the HTTPS/ SSH URL.
+#### 3. On the terminal, type git clone command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
+#### 4. Run git checkout -b your-branch-name. Make your contributions
+#### 5. Push your branch up to your forked repository
+#### 6. Open a Pull Request if you want to merge branches with a detailed description of the development branch of the original project for a review
 
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Author
 
-### Setup
+👤 **Shoira Toshpulatova**
 
-### Install
+- GitHub: [@githubhandle](https://github.com/shoirata)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shoira-tashpulatova-bab4a7122/)
 
-### Usage
+![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=true&theme=dark&show_icons=true)
 
-### Run tests
-
-### Deployment
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
